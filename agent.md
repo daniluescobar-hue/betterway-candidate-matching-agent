@@ -71,3 +71,22 @@ No code modifications are required.
 * Automatic publication through Notion MCP
 * Recruiter feedback loop
 * Advanced scoring models
+
+* ## Notion MCP Setup
+
+To connect Notion MCP:
+
+1. Create a Notion account.
+2. Create a Notion workspace.
+3. Create a Notion integration through Notion Developers.
+4. Generate an integration token.
+5. Share the destination page with the integration.
+6. Configure the Notion MCP server using the integration token.
+7. Run the agent and publish the generated report.
+
+Current implementation generates the report locally in:
+
+output/report.md
+
+Automatic Notion publishing can be enabled after MCP configuration.
+
