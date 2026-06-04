@@ -14,12 +14,20 @@ https://app.notion.com/p/BetterWay-Candidate-Matching-Report-3758a0a4dd8f80a8bea
 Time Invested:
 Approximately 4 hours
 
-Solution Summary:
+Resumen de la solución
 
-This project implements a reusable candidate matching agent capable of analyzing candidate profiles and job descriptions.
+Este proyecto implementa un agente reutilizable de búsqueda de candidatos diseñado para evaluar perfiles de candidatos en función de las descripciones de puestos.
 
-The solution automatically reads PDF files, calculates candidate-job matching scores, classifies candidates, and generates a recruiter-friendly report.
+La solución procesa automáticamente documentos PDF, extrae información relevante, calcula puntuaciones de compatibilidad entre candidatos y puestos, clasifica a los candidatos según su idoneidad y genera un informe fácil de usar para los reclutadores.
 
-The architecture is reusable and can process future recruitment datasets without code modifications.
+La arquitectura se diseñó pensando en la reutilización, lo que permite procesar futuros conjuntos de datos de reclutamiento sin necesidad de modificar el código.
 
-Future improvements include LLM-powered matching using Gemini, OpenAI, or Claude, semantic candidate analysis, and automatic publishing through Notion MCP.
+Las posibles mejoras futuras incluyen:
+
+Búsqueda de candidatos mediante modelos como Gemini, OpenAI o Claude.
+
+Análisis semántico de las habilidades y la experiencia de los candidatos.
+
+Publicación automatizada de informes mediante integraciones con Notion MCP.
+
+Lógica de clasificación mejorada con criterios de ponderación configurables.
