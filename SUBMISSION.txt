@@ -9,8 +9,7 @@ Loom Video:
 https://www.loom.com/share/2f249b752172402dbfa0a98d3c61861b
 
 Notion Report:
-Notion could not be configured during the assessment due access/connectivity issues.
-The generated report is available in the repository under output/report.md.
+https://app.notion.com/p/BetterWay-Candidate-Matching-Report-3758a0a4dd8f80a8bea4e4ed2a55a946?source=copy_link
 
 Time Invested:
 Approximately 4 hours
