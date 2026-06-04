@@ -1,0 +1,26 @@
+BETTERWAY TECHNICAL ASSESSMENT
+
+Candidate: Evelyn Daniela Escobar Oteca
+
+GitHub Repository:
+https://github.com/daniluescobar-hue/betterway-candidate-matching-agent.git
+
+Loom Video:
+https://www.loom.com/share/2f249b752172402dbfa0a98d3c61861b
+
+Notion Report:
+Notion could not be configured during the assessment due access/connectivity issues.
+The generated report is available in the repository under output/report.md.
+
+Time Invested:
+Approximately 4 hours
+
+Solution Summary:
+
+This project implements a reusable candidate matching agent capable of analyzing candidate profiles and job descriptions.
+
+The solution automatically reads PDF files, calculates candidate-job matching scores, classifies candidates, and generates a recruiter-friendly report.
+
+The architecture is reusable and can process future recruitment datasets without code modifications.
+
+Future improvements include LLM-powered matching using Gemini, OpenAI, or Claude, semantic candidate analysis, and automatic publishing through Notion MCP.
